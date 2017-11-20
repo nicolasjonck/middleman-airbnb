@@ -1,0 +1,11 @@
+Barcelona:
+  population: 6.000.000
+  country: "Spain"
+
+Brussels:
+  population: 1.000.000
+  country: "Belgium"
+
+London:
+  population: 9.000.000
+  country: "England"
