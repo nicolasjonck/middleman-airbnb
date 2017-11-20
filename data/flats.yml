@@ -1,0 +1,22 @@
+ssaunier:
+  name: "Sebastien's home"
+  description: "Charming room in Montmartre"
+  city_name: "Paris, France"
+  city_slug: "paris"
+  wifi: false
+  rating: 4
+  picture:
+martineeisinga:
+  name: "Martine's home"
+  description: Large castle in Heerenveen
+  city_name: "Heerenveen, Netherlands"
+  city_slug: "heerenveen"
+  wifi: true
+  rating: 3
+nicolasjonck:
+  name: Nicolas' home
+  description: Nice flat in Brussels
+  city_name: "Brussels, Belgium"
+  city_slug: "brussels"
+  wifi: true
+  rating: 5
